@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ofek&#39;s Place</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Ofek&#39;s Place</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 14:59:33 +0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first Telegram bot</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 11 Jul 2020 14:59:33 +0300</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Check out my first Telegram bot: @AnakinTheMusicBot version 0.1. </description>
+    </item>
+    
+  </channel>
+</rss>
