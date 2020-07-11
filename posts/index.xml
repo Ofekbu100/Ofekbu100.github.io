@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ofek&#39;s Place</title>
+    <title>Posts on Ofek&#39;s Website</title>
     <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Ofek&#39;s Place</description>
+    <description>Recent content in Posts on Ofek&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Jul 2020 14:59:33 +0300</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Sat, 11 Jul 2020 14:59:33 +0300</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Check out my first Telegram bot: @AnakinTheMusicBot version 0.1. </description>
+      <description>Check out my first Telegram bot AnakinTheMusicBot version 0.1: AnakinTheMusicBot0.1 </description>
     </item>
     
   </channel>
